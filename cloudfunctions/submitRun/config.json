@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "openapi": []
+  },
+  "description": "提交成绩并进行反作弊校验"
+}

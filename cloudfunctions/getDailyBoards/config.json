@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "openapi": []
+  },
+  "description": "获取今日三擂台板"
+}
