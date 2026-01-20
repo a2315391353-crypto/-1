@@ -1,0 +1,17 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "spring-toy-arena",
+  "description": "年货玩具厂·螺丝擂台（小游戏）",
+  "appid": "touristappid",
+  "setting": {
+    "es6": true,
+    "minified": false
+  },
+  "compileType": "game",
+  "simulatorType": "game",
+  "condition": {
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
